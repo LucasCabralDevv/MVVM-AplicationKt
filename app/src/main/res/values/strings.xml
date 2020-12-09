@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MVVM Application</string>
+    <string name="main_title_textView">Template teste</string>
+    <string name="main_login_button">Login</string>
 </resources>
